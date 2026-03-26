@@ -1,7 +1,2 @@
-__pycache__/
-*.pyc
-model/*.pt
-preprocessor/*.joblib
-.claude/
-.mcp.json
-CLAUDE.md
+*__pycache__/
+results/
