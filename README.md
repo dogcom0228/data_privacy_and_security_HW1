@@ -1,4 +1,4 @@
-# Data Privacy and Security - Homework 1
+# Data Privacy and Security
 
 Investigating the **privacy-utility tradeoff** of Mondrian k-anonymity on the UCI Adult (Census Income) dataset. We anonymize the dataset with varying k values, then train and evaluate ML models to measure how anonymization affects classification performance.
 
